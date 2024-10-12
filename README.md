@@ -4,7 +4,7 @@ MedAssist is a lightweight application for answering disease-related questions u
 
 ## Demo
 
-Watch this demo video to see the application in action: [Demo Video](https://github.com/user-attachments/assets/e0528c89-a5aa-4392-8db7-c02736b41cb0)
+Watch this demo video to see the application in action: https://github.com/user-attachments/assets/e0528c89-a5aa-4392-8db7-c02736b41cb0
 
 *In this video, you’ll see MedAssist in action as it effectively answers medical queries using a simple LLM. Watch how easy it is to interact with the application and get accurate responses to your health-related questions.*
 
