@@ -39,9 +39,8 @@ cd medassist
    pip install -r requirements.txt
    ```
 3. **Run the Application**: Use Docker to run the application:
-   
-   ```bash
-   docker-compose up
-   ```
 
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or raise an issue if you have suggestions for improvements.
 
