@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/caaac8cb-8d23-483c-a27e-c1a41666845c
+
 # 🌟 MedAssist: LLM-Based Disease Query Answering System
 
 MedAssist is a lightweight application for answering disease-related questions using large language models (LLMs). The system retrieves relevant documents and generates accurate answers based on user queries.
