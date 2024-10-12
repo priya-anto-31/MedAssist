@@ -1,18 +1,19 @@
-# MedAssist: LLM-Based Disease Query Answering System
+# 🌟 MedAssist: LLM-Based Disease Query Answering System
 
-## Overview
+MedAssist is a lightweight application for answering disease-related questions using large language models (LLMs). The system retrieves relevant documents and generates accurate answers based on user queries.
 
-**MedAssist** is a simple application that answers medical questions related to diseases using large language models (LLMs). It retrieves information from embedded documents stored in local files.
+## ✨ Features
 
-## Features
+- 🔍 **Search Through Documents**: Answer medical queries by searching relevant documents.
+- 📂 **Document Storage**: Supports documents stored locally or in cloud services like Google Drive.
+- 💾 **Document Listing**: Easily list all available documents.
+- ⚡ **Quick Responses**: Provides answers to questions efficiently using an LLM.
 
-- LLM-based question answering.
-- Document embedding and retrieval from local files.
-
-## Installation
+## 🛠️ Installation
 
 ### Prerequisites
 
+- Docker
 - Python 3.11+
 
 ### Clone the Repository
