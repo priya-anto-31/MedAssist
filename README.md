@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/b555cce9-cdac-4631-b2be-3d0751c104ac
 ### Clone the Repository
 
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/priya-anto-31/MedAssist)
 cd medassist
 ```
 
