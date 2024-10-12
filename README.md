@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/b555cce9-cdac-4631-b2be-3d0751c104ac
 - 📂 **Document Storage**: Supports documents stored locally or in cloud services like Google Drive.
 - 💾 **Document Listing**: Easily list all available documents.
 - ⚡ **Quick Responses**: Provides answers to questions efficiently using an LLM.
-- 📖 **Retrieval-Augmented Generation (RAG)**: Combines document retrieval and language generation for more accurate and contextually relevant answers to medical queries.
+- 📖 **Retrieval-Augmented Generation (RAG)**: Combines document retrieval with advanced language generation using Google Gemini, ensuring accurate and precise responses to user inquiries.
 
 ## 🛠️ Installation
 
