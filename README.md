@@ -40,6 +40,14 @@ cd medassist
    ```
 3. **Run the Application**: Use Docker to run the application:
 
+   ```
+   docker-compose up
+   ```
+
+## ⚖️ License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or raise an issue if you have suggestions for improvements.
